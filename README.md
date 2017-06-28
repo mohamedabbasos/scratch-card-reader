@@ -1,5 +1,5 @@
 # scratch-card-reader
-...
+Created to help blind people to charge their phones balance by themselves.
 
 # To Do
 
